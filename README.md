@@ -1,0 +1,2 @@
+# Python_ML_LinearRegression_2_Ecom_Cust
+Exploratory Data Analysis for Ecommerce Customer
